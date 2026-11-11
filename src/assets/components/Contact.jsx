@@ -1,4 +1,4 @@
-export const Navbar = () => {
+export const Contact = () => {
     return (
         <div>
             <h3>Contacto</h3>
